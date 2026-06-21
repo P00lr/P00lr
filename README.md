@@ -38,10 +38,6 @@ Desarrollador de Software enfocado en Ingeniería Backend con un dominio sólido
    * **Stack:** Java, Spring Boot, Spring Security, Spring Data JPA, PostgreSQL, Render.
 
 
-2. **[Dashboard de Administración / E-Commerce](https://github.com/P00lr)**
-   * **Descripción:** Interfaz interactiva y de alta fidelidad responsiva que sirve de ecosistema visual para el sistema backend. Consumo eficiente de servicios REST, manejo estructurado del estado de la aplicación y diseño optimizado.
-   * **Stack:** React, JavaScript, Tailwind CSS, Git.
-
 ---
 
 ### 🌐 Contacto Profesional
