@@ -33,10 +33,10 @@ Desarrollador de Software enfocado en Ingeniería Backend con un dominio sólido
 
 > *Nota para reclutadores y líderes técnicos: Cada repositorio cuenta con documentación exhaustiva acerca de su arquitectura, diagramas de bases de datos e instrucciones detalladas para su despliegue local.*
 
-1. **[API de Gestión de Accesorios (Backend)](https://github.com/P00lr/backend-api-gestion-accesorios)**
+1. **[API de Gestión de Encomiendas (Backend)](https://github.com/P00lr/api-shipments)**
    * **Descripción:** API REST empresarial e institucional diseñada bajo los estándares de Clean Architecture y SOLID. Incorpora control de seguridad granular, manejo global y centralizado de excepciones, y optimización avanzada de persistencia relacional.
    * **Stack:** Java, Spring Boot, Spring Security, Spring Data JPA, PostgreSQL, Render.
-   * **Despliegue:** 🚀 [Ver API en Producción](https://backend-api-gestion-accesorios.onrender.com)
+
 
 2. **[Dashboard de Administración / E-Commerce](https://github.com/P00lr)**
    * **Descripción:** Interfaz interactiva y de alta fidelidad responsiva que sirve de ecosistema visual para el sistema backend. Consumo eficiente de servicios REST, manejo estructurado del estado de la aplicación y diseño optimizado.
